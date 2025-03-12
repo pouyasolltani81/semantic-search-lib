@@ -15,7 +15,7 @@ class FAISSBackend:
           
         #     raise ValueError("No vectors provided to add to FAISS index.")
         try:
-            print(np.array(vectors))
+            
             
             self.index.add(np.array(vectors))
         except Exception as e:
