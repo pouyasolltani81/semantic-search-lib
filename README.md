@@ -87,5 +87,5 @@ uvicorn main:app --reload
 
 ---
 
-🔧 **Happy Searching!** 🚀 Let me know if you’d like me to refine this further or add anything! ✌️
+🔧 **Happy Searching!** 🚀 ✌️
 
