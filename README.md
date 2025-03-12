@@ -15,7 +15,7 @@ A flexible library for semantic search supporting multiple backends (cosine simi
 Clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/your-username/semantic-search-lib.git
+git clone https://github.com/pouyasolltani81/semantic-search-lib.git
 cd semantic-search-lib
 pip install -e .
 ```
